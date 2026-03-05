@@ -1,5 +1,7 @@
 # Gaze Correction Camera
 
+<img src="https://github.com/user-attachments/assets/66e2355a-20d7-4ac5-b711-cb1b2ff653d7" style="width: 160px; display: block;">
+
 MacOs Application Preview ([🔗 Download](https://drive.google.com/file/d/1E47OZ66YPab1QuTbxN97hL2u3GYwyUbz/view?usp=drive_link))
 
 ## Overview
